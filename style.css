@@ -1,0 +1,95 @@
+body{
+    background-color: hsl(216, 12%, 8%);
+    font-family: 'Overpass', sans-serif;
+}
+.container {
+  display: flex;
+}
+.container{
+  text-align: center;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.circulo {
+  
+  
+
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px; /* Adicione o espaçamento desejado */
+}
+
+
+.card1{
+    background-color: hsl(213, 19%, 18%);
+  width: 30vw;
+height: 45vh;
+
+border-radius: 20px;
+position: relative;
+left: 35vw;
+top: 10vh;
+}
+
+.card{
+    background-color: hsl(213, 19%, 18%);
+  width: 30vw;
+height: 45vh;
+
+border-radius: 20px;
+position: relative;
+left: 35vw;
+top: 50vh;
+}
+p{
+  position: relative;  
+  top: 0vh;
+  color: hsl(217, 12%, 63%);
+
+}
+
+h1{
+    color: white;
+}
+.circulo{
+    width: 3vw;
+    height: 6vh;
+    background-color:hsl(216, 12%, 54%);
+    border-radius: 100%;
+
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  bottom: 39.5vh;
+}
+
+button {
+  background-color: hsl(25, 97%, 53%);
+  color: white;
+  width: 20vw;
+  height: 5vh;
+  border-radius: 70px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1rem;
+  justify-content: centerSS;
+}
+
+#estrela{
+    position: relative;
+    left: 1.5vw;
+    top: 1.5vh;
+
+
+}
